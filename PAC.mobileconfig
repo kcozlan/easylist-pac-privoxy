@@ -46,7 +46,7 @@
 	
 	<key>PayloadIdentifier</key>
 	<!-- CREATE AN IDENTIFIER FOR YOUR PROFILE AND REPLACE GENERATED_UUID_02 -->
-	<string>your.adblock.proxy.name.fafcd17a-903f-11ea-bb37-0242ac130002</string>
+	<string>cozAdblock.fafcd17a-903f-11ea-bb37-0242ac130002</string>
 	
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
